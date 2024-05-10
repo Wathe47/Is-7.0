@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[84419],{84419:(s,S,e)=>{e.r(S),e.d(S,{ResultStatus:()=>u,TabIndex:()=>n});var n=function(s){return s[s.DIAGNOSTIC_LOGS=0]="DIAGNOSTIC_LOGS",s[s.AUDIT_LOGS=1]="AUDIT_LOGS",s}({}),u=function(s){return s.SUCCESS="SUCCESS",s.FAILED="FAILED",s}({})}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[41349,83761],{41349:(s,e,o)=>{o.r(e),o.d(e,{QuickStartModes:()=>r.QuickStartModes});var r=o(83761)},83761:(s,e,o)=>{o.r(e),o.d(e,{QuickStartModes:()=>r});var r=function(s){return s.INTEGRATE="INTEGRATE",s.SAMPLES="SAMPLES",s}({})}}]);

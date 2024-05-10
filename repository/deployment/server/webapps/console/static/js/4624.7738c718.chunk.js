@@ -1,0 +1,1 @@
+(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[4624],{4624:(s,e,a)=>{s.exports=a.p+"static/media/fa10367484cb85e73f590a35fcaeb3d2.svg"}}]);

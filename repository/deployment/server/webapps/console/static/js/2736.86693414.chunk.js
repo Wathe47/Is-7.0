@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[2736],{2736:(s,e,r)=>{r.r(e),r.d(e,{CreateGroupWizard:()=>o.CreateGroupWizard,GroupBasics:()=>a.GroupBasics});var o=r(1503),a=r(10986)}}]);

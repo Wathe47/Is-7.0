@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[92030],{92030:(e,n,o)=>{o.r(n),o.d(n,{getDeploymentRegion:()=>s});var s=function(){return window.AppUtils.getConfig().extensions.deploymentRegion}}}]);

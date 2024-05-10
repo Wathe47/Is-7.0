@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[54050],{54050:(e,s,t)=>{t.r(s),t.d(s,{RemoteUserStoreMeta:()=>o});var o={userStoreAgent:{artifact:"agent-v1.1.7.zip"}}}}]);

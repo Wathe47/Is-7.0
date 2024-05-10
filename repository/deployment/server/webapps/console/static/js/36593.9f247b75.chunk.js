@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[36593],{36593:(s,e,r)=>{r.r(e),r.d(e,{updatePasswordExpiryProperties:()=>o.updatePasswordExpiryProperties,useGetPasswordExpiryProperties:()=>o.useGetPasswordExpiryProperties});var o=r(30593)}}]);

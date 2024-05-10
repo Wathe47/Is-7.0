@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[27760,15576],{27760:(s,o,e)=>{e.r(o),e.d(o,{GroupList:()=>r.GroupList});var r=e(62225);e(15576)},15576:(s,o,e)=>{e.r(o);e(24279)}}]);
